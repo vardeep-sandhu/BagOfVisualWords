@@ -1,6 +1,10 @@
-# C++ Final Project: "Place Recognition using Bag of Visual Words"
+# Place Recognition using Bag of Visual Words
 
-This provides an overview of how to run the project.
+Place recognition using Bag of Visual Words (BoVW) in C++ is a method in computer vision for identifying and matching locations or scenes based on visual features extracted from images. It involves representing images with local descriptors, quantizing them into a visual vocabulary, and generating histograms of visual word occurrences. This approach is widely used in tasks like image retrieval and scene recognition, and typically involves libraries like OpenCV for implementation. 
+
+More information on this project can be found on [this page](https://www.youtube.com/watch?v=HWIkcMakz-s&pp=ygUeYmFnIG9mIHZpc3VhbCB3b3JkcyBzdGFjaG5pc3Mg)
+
+This project was built as the final project from the course "Modern C++ for Computer Vision and Image Processing", taught by [Ignacio Vizzo](https://github.com/nachovizzo). This project was a jointly built by [Yash Goel](https://github.com/yash-goel) and myself.
 
 ## Running the Project
 
