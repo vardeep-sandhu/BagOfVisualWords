@@ -1,0 +1,6 @@
+#pragma once
+#include <string>
+
+namespace ipb {
+static const std::string ProjectPath = "${PROJECT_SOURCE_DIR}/";
+}  // namespace ipb
